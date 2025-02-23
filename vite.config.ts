@@ -8,6 +8,6 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
     preview: {
-    allowedHosts: ["hackdays.tech"],
+    allowedHosts: ["register.hackdays.tech"],
   },
 });
